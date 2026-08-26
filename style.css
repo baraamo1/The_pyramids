@@ -12,10 +12,21 @@ body{
 background-color: rgb(255, 214, 152);
 }
 #des{
+line-height: 30px;
+font-size: 20px;
+}
+#desc{
     border: solid;
     padding: 20px;
     border-radius: 20px;
-    line-height: 30px;
+    margin: 20px;
     background-color: rgb(255, 214, 152);
-    font-size: 20px;
+    
+}
+#pyr{
+    width: 300px;
+    border-radius: 20px;
+    border:solid;    
+    float: right;
+    margin: 20px;
 }
