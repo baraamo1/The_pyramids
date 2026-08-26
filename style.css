@@ -1,0 +1,21 @@
+body{
+    background-color:rgb(255, 225, 180);
+}
+#main{
+    text-align: center;
+    font-size: 40px;
+    border: solid 3px ;
+    width: fit-content;
+    margin: auto;
+    padding: 15px;
+    border-radius: 20px;
+background-color: rgb(255, 214, 152);
+}
+#des{
+    border: solid;
+    padding: 20px;
+    border-radius: 20px;
+    line-height: 30px;
+    background-color: rgb(255, 214, 152);
+    font-size: 20px;
+}
