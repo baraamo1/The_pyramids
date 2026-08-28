@@ -31,7 +31,7 @@ font-size: 30px;
     padding: 20px;
     border-radius: 20px;
     margin: 20px;
-    background-color: rgb(255, 214, 152);
+    background-color: #ffd699;
     
 }
 .pyr{
@@ -53,4 +53,30 @@ font-size: 30px;
 
 #do{
     background-color: rgb(76, 114, 65);
+}
+#info{
+    border:solid;
+    margin:20px;
+    line-height: 30px;
+    border-radius: 24px;
+    background-color: #ffd699;
+    font-size:17px;
+      font-family: "Passero One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+    padding:10px;
+}
+.imgs{
+    width: 150px;
+    border :solid;
+    border-radius: 20px;
+    margin:20px;
+}
+#imgs{
+background-color: #ffd699;
+border: solid;
+margin: 20px;
+border-radius: 20px;
+
+
 }
